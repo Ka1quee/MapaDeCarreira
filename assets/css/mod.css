@@ -1,0 +1,24 @@
+.test {
+    background-color: #5374e0;
+    height: auto;
+    width: 100%;
+}
+
+.picture {
+    height: 100%;
+    object-fit: cover;
+}
+
+.progress-bar,
+.resume-timeline:before {
+    background-color: #5374e0;
+
+}
+
+
+
+.resume-section-title,
+.resume-timeline-item:before {
+    color: #5374e0;
+
+}

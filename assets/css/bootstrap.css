@@ -2014,6 +2014,8 @@ progress {
   border-color: var(--bs-table-border-color);
 }
 
+
+
 .table-danger {
   --bs-table-color: #000;
   --bs-table-bg: #f8d7da;
@@ -11839,7 +11841,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   top: 3px;
   width: 15px;
   height: 15px;
-  border: 4px solid #58677c;
+  border: 4px solid #5374e0;
   background: white;
   border-radius: 50%;
 }
